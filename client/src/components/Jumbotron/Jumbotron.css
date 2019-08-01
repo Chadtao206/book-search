@@ -1,0 +1,14 @@
+.jumbotron {
+    height: 300px;
+    clear: both;
+    padding-top: 120px;
+    text-align: center;
+    background-image: url('../../images/saved_image.jpeg');
+    background-size: cover;
+}
+
+h1, h3 {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+

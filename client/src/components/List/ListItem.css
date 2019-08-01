@@ -1,0 +1,22 @@
+.infoBtn {
+    width: 115px;
+    height: 39px;
+    float: right;
+    color: white !important;
+    margin-right: 25px;
+    margin-top: 10px;
+}
+
+.saveBtn {
+    float: right;
+    color: white !important;
+    background-color: coral;
+    height: 39px;
+    width: 115px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.list-group-item {
+    background-color: rgb(253, 248, 242);
+}
