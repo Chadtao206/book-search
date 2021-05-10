@@ -28,7 +28,7 @@
     "hoek": "4.2.1",
     "if-env": "^1.0.4",
     "js-yaml": "3.13.1",
-    "lodash": "4.17.13",
+    "lodash": "4.17.21",
     "lodash.template": "4.5.0",
     "mem": "4.0.0",
     "mongoose": "^5.3.9",
